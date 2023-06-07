@@ -1,6 +1,7 @@
 #include "fun1.h"
 
 int main() {
- fun1();
- return 0;
+	fun1();
+	
+	return 0;
 }
